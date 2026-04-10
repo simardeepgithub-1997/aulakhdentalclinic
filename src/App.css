@@ -1,0 +1,5 @@
+/* App specific styles (currently handled globally in index.css) */
+.app-wrapper {
+  overflow-x: hidden;
+  width: 100%;
+}
